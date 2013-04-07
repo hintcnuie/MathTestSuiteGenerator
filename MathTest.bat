@@ -1,0 +1,1 @@
+java -Dfile.encoding=utf-8 -jar MathTestMainUI_3.jar
